@@ -1,0 +1,62 @@
+[
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "densetsu",
+    "music_url": "densetsu.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "departure",
+    "music_url": "departure.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "ginpatsu_no_shounen_killua_s",
+    "music_url": "ginpatsu_no_shounen_killua_s.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "hy_ri_ittai_lamento",
+    "music_url": "hy_ri_ittai_lamento.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "hyori_ittai_ru_s",
+    "music_url": "hyori_ittai_ru_s.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "just_awake",
+    "music_url": "just_awake.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "kurapika_s_theme",
+    "music_url": "kurapika_s_theme.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "medley",
+    "music_url": "medley.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "ohayou",
+    "music_url": "ohayou.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "reason",
+    "music_url": "reason.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "taiyou_wa_yoru_mo_kagayaku",
+    "music_url": "taiyou_wa_yoru_mo_kagayaku.ogg"
+  },
+  {
+    "base_url": "/anime-s01-music-bank-remote-data-source/src/main/api/v1/music/hunter_x_hunter/",
+    "music_title": "with_tears",
+    "music_url": "with_tears.ogg"
+  }
+]
